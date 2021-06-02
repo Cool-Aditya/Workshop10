@@ -6,7 +6,7 @@ POST http://localhost:3000/users
 Content-Type: application/json
 
 {
-   "userName": "ManiBhau10",
+   "userName": "Diksha Pawar",
    "password": "A@123" 
 }
 
@@ -15,6 +15,8 @@ POST http://localhost:3000/users/signin
 Content-Type: application/json
 
 {
-   "userName":"ManiBhau9",
+   "userName":"Diksha Pawar",
    "password": "A@123"
 }
+
+###
